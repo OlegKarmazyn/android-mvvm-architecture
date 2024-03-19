@@ -39,7 +39,7 @@
                 android:id="@+id/toolbar"
                 style="@style/Toolbar"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 app:subtitleTextColor="@color/white"
                 app:title="@string/title"
                 app:titleTextAppearance="@style/Toolbar.TitleText"
@@ -49,7 +49,7 @@
                 android:id="@+id/tabLayout"
                 style="@style/AppTab"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 android:background="@color/colorPrimary"
                 app:tabGravity="fill"
                 app:tabIndicatorColor="@color/white" />
