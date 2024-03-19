@@ -22,6 +22,8 @@ package com.mindorks.framework.mvvm.utils;
 
 public final class AppConstants {
 
+    public static final int TEST_STAT = 10;
+
     public static final int API_STATUS_CODE_LOCAL_ERROR = 0;
 
     public static final String DB_NAME = "mindorks_mvvm.db";
